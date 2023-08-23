@@ -7,7 +7,7 @@ View BoltDB file in your terminal
 ## Install
 
 ```
-$ go get -u github.com/hasit/bolter
+$ go install github.com/hasit/bolter@latest
 ```
 
 ## Usage
